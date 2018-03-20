@@ -101,9 +101,21 @@ main{
     }
 table{
     align: center;
-    border: 1px, solid, #3399cc;
+    border: 1px solid #3399cc;
     width: 90%;
     border-collapse: collapse;
+    }
+td{
+    padding: 5px;
+    border: 1px solid #3399cc;
+    text-align: center;
+    }
+th{
+    padding: 5px;
+    border: 1px solid #3399cc;
+    }
+#text{
+    text-align: left;
     }
 @media only screen and (max-width: 1024px) {
     body{
