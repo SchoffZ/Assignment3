@@ -114,4 +114,10 @@ main{
     h1{
         margin: 0;
         }
+    nav{
+        float: none;
+        width: auto;
+        padding: 0.5em;
+        }
+    
     }
