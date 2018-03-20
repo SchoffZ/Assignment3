@@ -163,5 +163,33 @@ main{
         margin: 0;
         padding: 0;
         }
-    
+    nav li{
+        display: block;
+        margin: 0;
+        padding: 0;
+        }
+    main{
+        padding-top: 0.1em;
+        padding-right: 0.6em;
+        padding-bottom: 0.1em;
+        padding-left: 0.4em;
+        }
+    #homehero{
+        display: none;
+        }
+    #yurthero{
+        display: none;
+        }
+    #trailhero{
+        display: none;
+        }
+    footer{
+        padding: 0;
+        }
+    #mobile{
+        display: inline;
+        }
+    #desktop{
+        display: none;
+        }
     }
