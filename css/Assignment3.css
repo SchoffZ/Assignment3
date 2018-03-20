@@ -125,4 +125,21 @@ main{
     nav a{
         padding: 1em;
         }
+    main{
+        padding: 1em;
+        margin-left: 0;
+        font-size: 90%;
+        }
+    footer{
+        margin: 0;
+        }
+    #homehero{
+        margin-left: 0;
+        }
+    #yurthero{
+        margin-left: 0;
+        }
+    #trailhero{
+        margin-left: 0;
+        }
     }
