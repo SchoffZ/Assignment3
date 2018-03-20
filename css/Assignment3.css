@@ -119,5 +119,10 @@ main{
         width: auto;
         padding: 0.5em;
         }
-    
+    nav li{
+        display: inline-block;
+        }
+    nav a{
+        padding: 1em;
+        }
     }
